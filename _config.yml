@@ -17,6 +17,7 @@ title: Timo Bertram
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  Personal website of Timo Bertram
+baseurl: "/timobertram"
 url: "https://timobertram.github.io"
 twitter_username: BertramTimo
 github_username: timobertram
