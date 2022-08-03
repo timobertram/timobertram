@@ -60,8 +60,14 @@ plugins:
 author:
   name   : "Timo Bertram"
   avatar : "/assets/images/IDBild.jpg"
-  bio    : "PhD Student Artificial Intelligence in Games"
+  bio    : "PhD Student Artificial Intelligence in Games @ Johannes Kepler University Linz"
   links:
+    - label: "Mail"
+      icon: "fa fa-solid fa-envelope"
+      url: "mailto:tbertram@faw.jku.at"
+    - label: "Linz"
+      icon: "fa fa-compass"
+      url: "https://www.google.com/maps/place/Johannes+Kepler+Universit%C3%A4t+Linz+-+JKU/@48.336614,14.3171163,17z/data=!3m1!4b1!4m5!3m4!1s0x477398434ec8e84d:0xe0d1670c08989881!8m2!3d48.336614!4d14.319305"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BertramTimo"
@@ -74,6 +80,12 @@ author:
 
 footer:
   links:
+    - label: "Mail"
+      icon: "fa fa-solid fa-envelope"
+      url: "mailto:tbertram@faw.jku.at"
+    - label: "Linz"
+      icon: "fa fa-compass"
+      url: "https://www.google.com/maps/place/Johannes+Kepler+Universit%C3%A4t+Linz+-+JKU/@48.336614,14.3171163,17z/data=!3m1!4b1!4m5!3m4!1s0x477398434ec8e84d:0xe0d1670c08989881!8m2!3d48.336614!4d14.319305"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BertramTimo"
@@ -84,8 +96,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/timobertram"
 
+atom_feed:
+  hide: true
+
 defaults:
-  # _posts
+  # _postss
   - scope:
       path: ""
       type: posts

@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /cv_old/
 title: "Up to date CV"
 classes: wide
 ---
