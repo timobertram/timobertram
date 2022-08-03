@@ -1,8 +1,17 @@
 ---
+title: "Publications"
 permalink: /publications/
-title: "Publications to date"
+classes: wide
 ---
+Timo Bertram, Johannes Fürnkranz, Martin Müller (2022): Supervised and Reinforcement Learning from
+Observations in Reconnaissance Blind Chess. IEEE Conference on Games
+<br/>
+<br/>
+Timo Bertram, Johannes Fürnkranz, Martin Müller (2022): <a href="https://arxiv.org/pdf/2107.04438.pdf">Quantity vs Quality: Investigating the Trade-Off between Sample Size and Label Reliability </a>. arXiv preprint
+<br/>
+<br/>
+Timo Bertram, Johannes Fürnkranz, Martin Müller (2021): <a href="https://arxiv.org/pdf/2204.09462.pdf">A Comparison of Contextual and Non-Contextual Preference Ranking for Set Addition Problems</a>. ICML SubsetML workshop
+<br/>
+<br/>
+Timo Bertram, Johannes Fürnkranz, Martin Müller (2021): <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9619134">Predicting Human Card Selection in Magic: The Gathering with Contextual Preference Ranking</a>. IEEE Conference on Games
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.

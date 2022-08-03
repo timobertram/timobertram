@@ -96,6 +96,10 @@ footer:
       icon: "fa fa-compass"
       url: "https://www.google.com/maps/place/Johannes+Kepler+Universit%C3%A4t+Linz+-+JKU/@48.336614,14.3171163,17z/data=!3m1!4b1!4m5!3m4!1s0x477398434ec8e84d:0xe0d1670c08989881!8m2!3d48.336614!4d14.319305"
 
+collections:
+  publications:
+     output: true
+     permalink: /:collection/:path/
 atom_feed:
   hide: true
 
@@ -118,6 +122,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
