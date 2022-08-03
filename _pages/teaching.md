@@ -1,10 +1,20 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+classes: wide
 header:
   overlay_image: /assets/images/color_gradient.jpg
 ---
-<!---
-Welcome to my personal website where I talk about my passions, my research, and my interests. You will find an ever-extending mix of posts about my recent papers and projects, as well as my quest to become the most mediocre Magic player.
-I aim to keep my CV and my publications up to date. Want to collaborate? Get in touch!
--->
+<h1> 2022 </h1>
+Algorithms and Datastructures, <i>Johannes Kepler Universität Linz</i>  
+Introduction to Software Engineering with Python, <i>Johannes Kepler Universität Linz</i>  
+Programming in Python I, <i>Johannes Kepler Universität Linz</i>  
+
+<h1> 2021 </h1>
+Algorithms and Datastructures, <i>Johannes Kepler Universität Linz</i>   
+Programming in Python I, <i>Johannes Kepler Universität Linz</i>  
+
+<h1> 2017 </h1>
+Software Engineering, <i>Rheinische Friedrich-Wilhelms-Universität Bonn</i>  
+<h1> 2016 </h1>
+Software Engineering, <i>Rheinische Friedrich-Wilhelms-Universität Bonn</i>  
