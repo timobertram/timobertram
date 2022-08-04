@@ -6,8 +6,7 @@ header:
   overlay_image: /assets/images/color_gradient.jpg
 ---
 
-<h1> 2022 </h1>
-Supervised and Reinforcement Learning from Observations in Reconnaissance Blind Chess<br/>
+<h1> 2022 </h1><a href="https://arxiv.org/abs/2208.02029">Supervised and Reinforcement Learning from Observations in Reconnaissance Blind Chess </a><br/>
 Timo Bertram, Johannes Fürnkranz, Martin Müller<br/>
 <i> Proceedings of the IEEE Conference on Games (CoG 2022) </i>
 <br/>
