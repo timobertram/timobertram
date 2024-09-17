@@ -1,0 +1,8 @@
+---
+title: "Efficiently Training Neural Networks for Imperfect Information Games by Sampling Information Sets"
+date: 2024-08-30
+---
+In imperfect information games, the evaluation of a game state not only depends on the observable world but also relies on hidden parts of the environment. As accessing the obstructed information trivialises state evaluations, one approach to tackle such problems is to estimate the value of the imperfect state as a combination of all states in the information set, i.e., all possible states that are consistent with the current imperfect information. In this work, the goal is to learn a function that maps from the imperfect game information state to its expected value. However, constructing a perfect training set, i.e. an enumeration of the whole information set for numerous imperfect states, is often infeasible. To compute the expected values for an imperfect information game like Reconnaissance Blind Chess, one would need to evaluate thousands of chess positions just to obtain the training target for a single state. Still, the expected value of a state can already be approximated with appropriate accuracy from a much smaller set of evaluations. Thus, in this paper, we empirically investigate how a budget of perfect information game evaluations should be distributed among training samples to maximise the return. Our results show that sampling a small number of states, in our experiments roughly 3, for a larger number of separate positions is preferable over repeatedly sampling a smaller quantity of states. Thus, we find that in our case, the quantity of different samples seems to be more important than higher target quality.
+
+
+[Link to PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-70893-0.pdf)

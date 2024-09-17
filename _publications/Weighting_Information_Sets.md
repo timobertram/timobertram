@@ -1,0 +1,8 @@
+---
+title: "Weighting Information Sets with Siamese
+Neural Networks in Reconnaissance Blind Chess"
+date: 2023-08-21
+---
+Research in Game Artificial Intelligence distinguishes between fully observable, perfect-information games and imperfect-information games, which hide part of the game’s full information. In games with imperfect information, all possible game states that are consistent with a player’s currently available information about the progress of the game are called the information set for that player. This information set can be used for multiple purposes such as determining the expected outcome of a certain move by evaluating it on all possible states in the information set. While in theory there is no way to distinguish states within an information set, players can use experience and other context information to estimate which states are the most likely. In this paper, we estimate a probability distribution over an information set from historic data such that we can assign a weight to each individual state. We achieve this by training a Siamese neural network with triplets of comparisons between different states in the information set given the context of the previously obtained information. A first evaluation in the game of Reconnaissance Blind Chess shows that we can learn to identify the one true game state in a large information set with high probability. In addition, when used within a naively constructed RBC agent, this approach shows promising gameplay performance. At the time of writing, a simple agent based on the Siamese neural network is ranked #6 of all agents on the public RBC leaderboard.
+
+[Link to PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10333170)
