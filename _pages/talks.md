@@ -9,27 +9,27 @@ header:
 Contrastive Learning for Games. 
 <i>Poster @ IggiCon. York, UK</i>  <br>
 
-Learning With Generalised Card Representations for "Magic: The Gathering". 
+Learning With Generalised Card Representations for "Magic: The Gathering". <br>
 <i>Conference presentation @ IEEE Conference on Games 2024. Milan, Italy</i>  <br>
 
-Contrastive Learning for Games. 
+Contrastive Learning for Games. <br>
 <i> Poster @ Austrian Computer Science Day. Vienna, Austria</i>  <br>
 
 
 <h1> 2023 </h1>
-Weighting Information Sets with Siamese Neural Networks in Reconnaissance Blind Chess. 
+Weighting Information Sets with Siamese Neural Networks in Reconnaissance Blind Chess. <br>
 <i>Conference presentation @ IEEE Conference on Games 2023. Boston, USA </i>  <br>
 
-The Machine Reconnaissance Blind Chess Tournament of NeurIPS 2022 
+The Machine Reconnaissance Blind Chess Tournament of NeurIPS 2022 <br>
 <i>Partial workshop presentation @ NeurIPS 2022. Virtual</i> <br>
  
 <h1> 2022 </h1>
-Supervised and Reinforcement Learning from Observations in Reconnaissance Blind Chess. 
+Supervised and Reinforcement Learning from Observations in Reconnaissance Blind Chess. <br>
 <i>Conference presentation @ IEEE Conference on Games 2022. Virtual</i> <br>
 
-Siamese Neural Networks for Magic: The Gathering and Reconnaissance Blind Chess. 
+Siamese Neural Networks for Magic: The Gathering and Reconnaissance Blind Chess. <br>
 <i>Invited presentation @ LIT AI Lab. Linz, Austria</i>  <br>
 
 <h1> 2021 </h1>
-Predicting Human Card Selection in Magic: The Gathering with Contextual Preference Ranking. 
+Predicting Human Card Selection in Magic: The Gathering with Contextual Preference Ranking. <br>
 <i>Conference presentation @ IEEE Conference on Games 2021. Virtual</i>  <br>
