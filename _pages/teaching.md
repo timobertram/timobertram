@@ -7,10 +7,9 @@ header:
 ---
 
 <h1> 2024 </h1>
-VL Introduction to Machine Learning <i>Johannes Kepler Universität Linz</i> 
+VL Introduction to Machine Learning, <i>Johannes Kepler Universität Linz</i> 
 UE Machine Learning: Supervised Techniques, <i>Johannes Kepler Universität Linz</i> 
 UE Programming in Python II, <i>Johannes Kepler Universität Linz</i>  
-
 <h1> 2023 </h1>
 UE Programming in Python I, <i>Johannes Kepler Universität Linz</i>  
 UE Programming in Python II, <i>Johannes Kepler Universität Linz</i>  
