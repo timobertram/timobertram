@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/color_gradient.jpg
 ---
 <h1> 2024 </h1>
-Contrastive Learning for Games. 
+Contrastive Learning for Games. <br>
 <i>Poster @ IggiCon. York, UK</i>  <br>
 
 Learning With Generalised Card Representations for "Magic: The Gathering". <br>
