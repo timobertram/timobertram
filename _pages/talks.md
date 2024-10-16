@@ -11,7 +11,7 @@ Contrastive Learning for Imperfect Information Games<br>
 <i>Invited talk @ University of Würzburg, Germany</i>  <br>
 
 Efficiently Training Neural Networks for Imperfect Information Games by Sampling Information Sets. <br>
-<i>Conference presentation @ KI 2024 - 47th German Conference on Artificial Intelligence. Würzburg, Germany<br>
+<i>Conference presentation @ KI 2024 - 47th German Conference on Artificial Intelligence. Würzburg, Germany</i> <br>
 
 Contrastive Learning for Imperfect Information Games<br>
 <i>Poster @ IggiCon. York, UK</i>  <br>
