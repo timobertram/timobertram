@@ -7,17 +7,20 @@ header:
 ---
 <h1> 2024 </h1>
 
-Contrastive Learning for Imperfect Information Games<br>
+Contrastive Learning for Imperfect Information Games<br> 
 <i>Invited talk @ University of Würzburg, Germany</i>  <br>
+[View Slides (PDF)] (/assets/slides/Würzburg24.pdf)
 
 Efficiently Training Neural Networks for Imperfect Information Games by Sampling Information Sets. <br>
 <i>Conference presentation @ KI 2024 - 47th German Conference on Artificial Intelligence. Würzburg, Germany</i> <br>
+[View Slides (PDF)] (/assets/slides/KI24.pdf)
 
 Contrastive Learning for Imperfect Information Games<br>
 <i>Poster @ IggiCon. York, UK</i>  <br>
 
 Learning With Generalised Card Representations for "Magic: The Gathering". <br>
 <i>Conference presentation @ IEEE Conference on Games 2024. Milan, Italy</i>  <br>
+[View Slides (PDF)] (/assets/slides/CoG24.pdf)
 
 Contrastive Learning for Imperfect Information Games<br>
 <i> Poster @ Austrian Computer Science Day. Vienna, Austria</i>  <br>
